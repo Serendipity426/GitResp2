@@ -1,8 +1,6 @@
 package com.msb;
 
-/**
- * @Auther: Yangkf
- * @Description: com.msb
- */
 public class Student {
+    private int age;
+    private String name;
 }
